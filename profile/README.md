@@ -1,4 +1,4 @@
-# raidcomp
+# raidcomp (IN PROGRESS)
 
 ![Death Knight Icon](https://github.com/raidcomp/.github/blob/main/images/classes/death-knight/icon.png?raw=true)
 ![Demon Hunter Icon](https://github.com/raidcomp/.github/blob/main/images/classes/demon-hunter/icon.png?raw=true)
@@ -13,6 +13,8 @@
 ![Shaman Icon](https://github.com/raidcomp/.github/blob/main/images/classes/shaman/icon.png?raw=true)
 ![Warlock Icon](https://github.com/raidcomp/.github/blob/main/images/classes/warlock/icon.png?raw=true)
 ![Warrior Icon](https://github.com/raidcomp/.github/blob/main/images/classes/warrior/icon.png?raw=true)
+
+### [>> SAMPLE FRONT END PROOF OF CONCEPT <<](http://www.raidcomp.io.s3-website-us-east-1.amazonaws.com/)
 
 [raidcomp.io](https://raidcomp.io) is a raid composition tool for [World of Warcraft](https://worldofwarcraft.com) based of similar tools such as [Wowhead](https://www.wowhead.com/raid-composition) and [MMO-Champion](https://raidcomp.mmo-champion.com/).
 
